@@ -1,0 +1,1 @@
+/S /acceptlicense /add-firewall-exception /execmode=Service /installtasks=Collect,Inventory,NetDiscovery,WakeOnLan /runnow /no-ssl-check /server="https://GLPI.SITE.COM"
