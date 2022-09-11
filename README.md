@@ -34,7 +34,7 @@
 
 <div>
   <a href="https://www.pfsense.org/"><img align="center" alt="PFSense" height="40" width="120" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/PfSense_logo.png/1200px-PfSense_logo.png"></a>
-  <a href="https://glpi-project.org/pt-br/"><img align="center" alt="GLPI" height="40" width="120" src="https://glpi-project.org/wp-content/uploads/GLPI_Logo-color.png"></a>
+  <a href="https://github.com/PhilipMello/philipmello/tree/main/GLPI"><img align="center" alt="GLPI" height="40" width="120" src="https://glpi-project.org/wp-content/uploads/GLPI_Logo-color.png"></a>
 </div>
 
 ##
