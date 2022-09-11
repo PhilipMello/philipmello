@@ -38,7 +38,7 @@ contract SafeMath {
 }
 
 // ---------------------------------------------------------------------------------------
-// BSC & ERC Stand Token Crypto
+// BSC & ERC Standard Token Crypto
 // ---------------------------------------------------------------------------------------
 abstract contract BEP20Interface {
     function approve(address spender, uint256 tokens) virtual public returns (bool success);
@@ -91,7 +91,7 @@ contract Owned {
 }
 
 // ---------------------------------------------------------------------------------------
-// STORE COIN Token Details: Symbol, Name, Decimals, Supply, Website, Whitepaper, Message
+// MYCRYPTO Token Details: Symbol, Name, Decimals, Supply, Website, Whitepaper, Message
 // ---------------------------------------------------------------------------------------
 contract MYCRYPTO is BEP20Interface, Owned, SafeMath {
     string public symbol;
