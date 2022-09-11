@@ -41,7 +41,7 @@
   
 <div>
   <a href="https://github.com/PhilipMello/philipmello/tree/main/aaPanel"><img align="center" alt="aaPanel" src="https://www.aapanel.com/static/images/aaPanel.png"></a>
-  <a href="https://cpanel.net/"><img align="center" alt="cPanel" height="40" width="120" src="https://iconape.com/wp-content/files/qt/370760/svg/370760.svg">
+  <a href="https://github.com/PhilipMello/philipmello/tree/main/cpanel"><img align="center" alt="cPanel" height="40" width="120" src="https://iconape.com/wp-content/files/qt/370760/svg/370760.svg">
   <a href="https://github.com/PhilipMello/philipmello/tree/main/Vesta"><img align="center" alt="Vesta CP" src="https://vestacp.com/img/vesta_logo.png"></a>
   <a href="https://github.com/PhilipMello/philipmello/tree/main/Sentora"><img align="center" alt="Sentora" src="http://www.sentora.org/img/sentora_logo.png"></a>  
 </div>
