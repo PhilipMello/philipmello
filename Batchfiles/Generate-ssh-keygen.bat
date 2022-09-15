@@ -1,0 +1,1 @@
+ssh-keygen -o -t rsa -C "you-email@gmail.com"
