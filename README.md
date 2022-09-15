@@ -4,7 +4,7 @@
    <a href="https://www.linkedin.com/in/philipmello" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-##
+---
 
 <div align="center">
   <a href="https://github.com/philipmello">
@@ -12,7 +12,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=philipmello&layout=compact&langs_count=7&theme=tokyonight"/></a>
 </div>
 
-##
+---
 ![Snake animation](https://github.com/philipmello/philipmello/blob/output/github-contribution-grid-snake.svg)
 
 <div style="display: inline_block"><br>
@@ -25,12 +25,12 @@
   <img align="center" alt="GitHub" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
   <img align="center" alt="Solidity" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg">
   <img align="center" alt="Ts" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <!--<img align="center" alt="React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Csharp" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">-->
+  <img align="center" alt="Csharp" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
   
-##
+---
 
 <div>
   <a href="https://www.pfsense.org/"><img align="center" alt="PFSense" height="40" width="120" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/PfSense_logo.png/1200px-PfSense_logo.png"></a>
@@ -46,14 +46,14 @@
   <a href="https://github.com/PhilipMello/philipmello/tree/main/Sentora"><img align="center" alt="Sentora" src="http://www.sentora.org/img/sentora_logo.png"></a>  
 </div>
  
-## 
+--- 
   
 <div>
   <img align="center" alt="MySql" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="MariaDB" height="50" width="60" src="https://iconape.com/wp-content/files/el/350134/svg/350134.svg">
 </div>
 
- ##
+ ---
   
 <div>
   <img align="center" alt="VSCode" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
@@ -62,7 +62,7 @@
   <img align="center" alt="NotePad++" height="50" width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Notepad%2B%2B_Logo.svg/512px-Notepad%2B%2B_Logo.svg.png?20210414160502">
 </div>
 
- ##
+ ---
   
  <div>
    <img align="center" alt="WordPress" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg">
@@ -73,7 +73,7 @@
    <img align="center" alt="VirtueMart" height="50" width="60" src="https://dev.virtuemart.net/attachments/download/3/cart_badge.png">
  </div>
  
- ## 
+ ---
   
  <div>
    <img align="center" alt="CentOS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/centos/centos-original.svg">
