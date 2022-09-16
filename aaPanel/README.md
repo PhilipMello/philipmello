@@ -1,7 +1,7 @@
 # To install aaPanel on your server, run the following command:
 ---
 
-## aaPanel installation script ##
+## aaPanel installation script
 
 ### Requirements:
 
