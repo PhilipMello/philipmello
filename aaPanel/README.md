@@ -68,6 +68,71 @@ Force to change MySQL manager (root) Password，e.g. 123456
 ```
 cd /www/server/panel && python tools.py root 123456
 ```
+Change control Panel login password，e.g. 123456
+```
+cd /www/server/panel && python tools.py panel 123456
+```
+Site Configuration location
+```
+/www/server/panel/vhost
+```
+Delete banding domain of control panel
+```
+rm -f /www/server/panel/data/domain.conf
+```
+Clean login restriction
+```
+rm -f /www/server/panel/data/*.login
+```
+View control panel authorization IP
+```
+cat /www/server/panel/data/limitip.conf
+```
+Stop access restriction
+```
+rm -f /www/server/panel/data/limitip.conf
+```
+View permission domain
+```
+cat /www/server/panel/data/domain.conf
+```
+Turn off control panel SSL
+```
+rm -f /www/server/panel/data/ssl.pl && /etc/init.d/bt restart
+```
+View control panel error logs
+```
+cat /tmp/panelBoot
+```
+View database error log
+```
+cat /www/server/data/*.err
+```
+Site Configuration directory(nginx)
+```
+/www/server/panel/vhost/nginx
+```
+Site Configuration directory(apache)
+```
+/www/server/panel/vhost/apache
+```
+Site default directory
+```
+/www/wwwroot
+```
+Database backup directory
+```
+/www/backup/database
+```
+Site backup directory
+```
+/www/backup/site
+```
+Site logs
+```
+/www/wwwlogs
+```
+
 <img src="https://forum.aapanel.com/assets/files/2019-05-17/1558098091-60956-home.png">
 
 <img src="https://forum.aapanel.com/assets/files/2020-05-29/1590749768-246140-tmp.png">
