@@ -33,3 +33,13 @@ wget -O install.sh http://www.aapanel.com/script/install-ubuntu_6.0_en.sh && bas
 ```
 
 <img src="https://forum.aapanel.com/assets/files/2019-05-17/1558098091-60956-home.png">
+
+<img src="https://forum.aapanel.com/assets/files/2020-05-29/1590749768-246140-tmp.png">
+
+<img src="https://forum.aapanel.com/assets/files/2020-05-29/1590750516-908036-tmp.png">
+
+<img src="https://forum.aapanel.com/assets/files/2020-05-29/1590749878-802908-tmp.png">
+
+<img src="https://forum.aapanel.com/assets/files/2020-05-29/1590750125-428227-tmp.png">
+
+<img src="https://forum.aapanel.com/assets/files/2020-05-29/1590750281-633474-tmp.png">
