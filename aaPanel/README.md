@@ -32,6 +32,42 @@ Debian
 wget -O install.sh http://www.aapanel.com/script/install-ubuntu_6.0_en.sh && bash install.sh aapanel
 ```
 
+# aaPanel Management script
+
+## Management
+
+Stop
+```
+service bt stop
+```
+Start
+```
+service bt start
+```
+Restart
+```
+service bt restart
+```
+Uninstall
+```
+service bt stop && chkconfig --del bt && rm -f /etc/init.d/bt && rm -rf /www/server/panel
+```
+View current port of control panel
+```
+cat /www/server/panel/data/port.pl
+```
+Change port of control panel，e.g. 8881（centos 6 Operation System）
+```
+echo '8881' > /www/server/panel/data/port.pl && service bt restart iptables -I INPUT -p tcp -m state --state NEW -m tcp --dport 8881 -j ACCEPT service iptables save service iptables restart
+```
+Change port of control panel，e.g. 8881（centos 7 Operation System）
+```
+echo '8881' > /www/server/panel/data/port.pl && service bt restart firewall-cmd --permanent --zone=public --add-port=8881/tcp firewall-cmd --reload
+```
+Force to change MySQL manager (root) Password，e.g. 123456
+```
+cd /www/server/panel && python tools.py root 123456
+```
 <img src="https://forum.aapanel.com/assets/files/2019-05-17/1558098091-60956-home.png">
 
 <img src="https://forum.aapanel.com/assets/files/2020-05-29/1590749768-246140-tmp.png">
