@@ -1,7 +1,7 @@
 ### <p align="center">Philip Mello, Developer and System Programmer</p>
 
 <div align="center">
-   <a href="https://www.linkedin.com/in/philipmello" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   <a href="https://www.linkedin.com/in/philip-mello" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 ---
