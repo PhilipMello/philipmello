@@ -1,7 +1,11 @@
 ### <p align="center">Philip Mello, Developer and System Programmer</p>
 
+
+
 <div align="center">
    <a href="https://www.linkedin.com/in/philip-mello" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   
+   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPhilipMello%2F&count_bg=%231A1B27&title_bg=%23628FDB&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
 
 ---
