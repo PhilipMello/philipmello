@@ -74,6 +74,7 @@
 
 <div>
 <img align="center" alt="Putty" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/putty/putty-original.svg">
+<img align="center" alt="SSH" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ssh/ssh-original-wordmark.svg">
 </div>
 
  ---
