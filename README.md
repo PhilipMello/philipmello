@@ -70,6 +70,12 @@
   <img align="center" alt="NotePad++" height="50" width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Notepad%2B%2B_Logo.svg/512px-Notepad%2B%2B_Logo.svg.png?20210414160502">
 </div>
 
+---
+
+<div>
+<img align="center" alt="NGINX" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/putty/putty-original.svg">
+</div>
+
  ---
   
  <div>
