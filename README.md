@@ -48,6 +48,7 @@
 
 <div>
 <img align="center" alt="Kubernets" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg">
+<img align="center" alt="Docker" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
 </div>
   
 ---
