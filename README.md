@@ -44,7 +44,7 @@
   <a href="https://github.com/PhilipMello/philipmello/tree/main/GLPI"><img align="center" alt="GLPI" height="40" width="120" src="https://glpi-project.org/wp-content/uploads/GLPI_Logo-color.png"></a>
 </div>
 
-##
+---
   
 <div>
   <a href="https://github.com/PhilipMello/philipmello/tree/main/aaPanel"><img align="center" alt="aaPanel" src="https://www.aapanel.com/static/images/aaPanel.png"></a>
