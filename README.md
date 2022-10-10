@@ -40,24 +40,24 @@
 ---
 
 <div>
-  <a href="https://www.pfsense.org/"><img align="center" alt="PFSense" height="40" width="120" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/PfSense_logo.png/1200px-PfSense_logo.png"></a>
-  <a href="https://github.com/PhilipMello/philipmello/tree/main/GLPI"><img align="center" alt="GLPI" height="40" width="120" src="https://glpi-project.org/wp-content/uploads/GLPI_Logo-color.png"></a>
+  <kbd><a href="https://www.pfsense.org/"><img align="center" alt="PFSense" height="40" width="120" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/PfSense_logo.png/1200px-PfSense_logo.png"></a></kbd>
+  <kbd><a href="https://github.com/PhilipMello/philipmello/tree/main/GLPI"><img align="center" alt="GLPI" height="40" width="120" src="https://glpi-project.org/wp-content/uploads/GLPI_Logo-color.png"></a></kbd>
 </div>
 
 ---
 
 <div>
-<img align="center" alt="Kubernets" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg">
-<img align="center" alt="Docker" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+<kbd><img align="center" alt="Kubernets" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg"></kbd>
+<kbd><img align="center" alt="Docker" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"></kbd>
 </div>
   
 ---
 
 <div>
-  <a href="https://github.com/PhilipMello/philipmello/tree/main/aaPanel"><img align="center" alt="aaPanel" src="https://www.aapanel.com/static/images/aaPanel.png"></a>
-  <a href="https://github.com/PhilipMello/philipmello/tree/main/cpanel"><img align="center" alt="cPanel" height="40" width="120" src="https://iconape.com/wp-content/files/qt/370760/svg/370760.svg">
-  <a href="https://github.com/PhilipMello/philipmello/tree/main/Vesta"><img align="center" alt="Vesta CP" src="https://vestacp.com/img/vesta_logo.png"></a>
-  <a href="https://github.com/PhilipMello/philipmello/tree/main/Sentora"><img align="center" alt="Sentora" src="http://www.sentora.org/img/sentora_logo.png"></a>  
+  <kbd><a href="https://github.com/PhilipMello/philipmello/tree/main/aaPanel"><img align="center" alt="aaPanel" src="https://www.aapanel.com/static/images/aaPanel.png"></a></kbd>
+  <kbd><a href="https://github.com/PhilipMello/philipmello/tree/main/cpanel"><img align="center" alt="cPanel" height="40" width="120" src="https://iconape.com/wp-content/files/qt/370760/svg/370760.svg"></a></kbd>
+  <kbd><a href="https://github.com/PhilipMello/philipmello/tree/main/Vesta"><img align="center" alt="Vesta CP" src="https://vestacp.com/img/vesta_logo.png"></a></kbd>
+  <kbd><a href="https://github.com/PhilipMello/philipmello/tree/main/Sentora"><img align="center" alt="Sentora" src="http://www.sentora.org/img/sentora_logo.png"></a></kbd> 
 </div>
  
 --- 
