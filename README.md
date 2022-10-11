@@ -1,6 +1,7 @@
 ### <p align="center">Philip Mello, Developer and System Programmer</p>
-
-
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Blockchain%20developer;Full-Stack%20Developer;PFSense%20Administrator;GLPI%20Administraror;Git%20Expert;Docker%20Administrator;VPS%20Expert;Being%20sincere%20and%20diligent&center=true&width=380&height=65"></a>
+</p>
 
 <div align="center">
    <a href="https://www.linkedin.com/in/philip-mello" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
