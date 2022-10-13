@@ -65,6 +65,7 @@
 
 <div>
   <kbd><a href="https://nextcloud.com"><img align="center" alt="NextCloud" height="60" width="80" src="https://raw.githubusercontent.com/PhilipMello/icons/main/nextcloud/nexcloud-logo-01.png"></a></kbd>
+  <kbd><a href="https://owncloud.com"><img align="center" alt="OwnCloud" height="60" width="80" src="https://raw.githubusercontent.com/PhilipMello/icons/main/owncloud/owncloud-logo-01.png"></a></kbd>
 </div>
   
 --- 
