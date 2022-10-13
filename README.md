@@ -37,7 +37,15 @@
   <kbd><img align="center" alt="Csharp" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"></kbd>
   <kbd><img align="center" alt="MarkDown" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg"></kbd>
 </div>
-  
+
+---
+
+<div>
+<kbd><a href="http://bitcoin.org"><img align="center" alt="Bitcoin" height="60" width="80" src="https://raw.githubusercontent.com/PhilipMello/icons/main/bitcoin/bitcoin-logo-01.png"></a></kbd>
+<kbd><a href="#"><img align="center" alt="Solidity" height="60" width="80" src="https://raw.githubusercontent.com/PhilipMello/icons/main/solidity/solidity-logo-01.png"></a></kbd>
+<kbd><a href="#"><img align="center" alt="DeFi" height="60" width="80" src="https://raw.githubusercontent.com/PhilipMello/icons/main/defi/defi-logo-01.png"></a></kbd>
+</div>
+
 ---
 
 <div>
@@ -107,7 +115,7 @@
  ---
   
  <div>
-   <kbd><img align="center" alt="CentOS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/centos/centos-original.svg">/<kbd>
+   <kbd><img align="center" alt="CentOS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/centos/centos-original.svg"><kbd>
    <kbd><img align="center" alt="Ubuntu" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg"></kbd>
    <kbd><img align="center" alt="debian" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg"></kbd>
    <kbd><img align="center" alt="Kali Linux" height="60" width="50" src="https://iconape.com/wp-content/files/aa/353176/svg/353176.svg"></kbd>
