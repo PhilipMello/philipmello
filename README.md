@@ -92,9 +92,9 @@
    <kbd><img align="center" alt="WordPress" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg"></kbd>
    <kbd><img align="center" alt="WooCommerce" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/woocommerce/woocommerce-original.svg"></kdb>
    <kbd><img align="center" alt="Elementor" height="50" width="60" src="https://iconape.com/wp-content/files/gj/11489/svg/elementor.svg"></kbd>
-   <kbd<img align="center" alt="Yoast SEO" height="50" width="60" src="https://iconape.com/wp-content/files/gm/11804/svg/yoast.svg"></kbd>
-   <kbd<img align="center" alt="Joomla" height="50" width="60" src="https://iconape.com/wp-content/files/eh/371238/svg/371238.svg"></kbd>
-   <kbd<img align="center" alt="VirtueMart" height="50" width="60" src="https://dev.virtuemart.net/attachments/download/3/cart_badge.png"></kbd>
+   <kbd><img align="center" alt="Yoast SEO" height="50" width="60" src="https://iconape.com/wp-content/files/gm/11804/svg/yoast.svg"></kbd>
+   <kbd><img align="center" alt="Joomla" height="50" width="60" src="https://iconape.com/wp-content/files/eh/371238/svg/371238.svg"></kbd>
+   <kbd><img align="center" alt="VirtueMart" height="50" width="60" src="https://dev.virtuemart.net/attachments/download/3/cart_badge.png"></kbd>
  </div>
  
  ---
