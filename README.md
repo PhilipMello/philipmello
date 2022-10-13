@@ -64,45 +64,45 @@
 --- 
   
 <div>
-  <img align="center" alt="MySql" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="MariaDB" height="50" width="60" src="https://iconape.com/wp-content/files/el/350134/svg/350134.svg">
-  <img align="center" alt="Apache" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg">
-  <img align="center" alt="NGINX" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg">
+  <kbd><img align="center" alt="MySql" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></kbd>
+  <kbd><img align="center" alt="MariaDB" height="50" width="60" src="https://iconape.com/wp-content/files/el/350134/svg/350134.svg"></kbd>
+  <kbd><img align="center" alt="Apache" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg"></kbd>
+  <kbd><img align="center" alt="NGINX" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"></kbd>
 </div>
 
  ---
   
 <div>
-  <img align="center" alt="VSCode" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+  <kbd><img align="center" alt="VSCode" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"></kbd>
   <img align="center" alt="Android Studio" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg">
-  <img align="center" alt="SublimeText" height="50" width="60" src="https://iconape.com/wp-content/files/yy/99728/svg/sublime-text.svg">
-  <img align="center" alt="NotePad++" height="50" width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Notepad%2B%2B_Logo.svg/512px-Notepad%2B%2B_Logo.svg.png?20210414160502">
+  <kbd><img align="center" alt="SublimeText" height="50" width="60" src="https://iconape.com/wp-content/files/yy/99728/svg/sublime-text.svg"></kbd>
+  <kbd><img align="center" alt="NotePad++" height="50" width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Notepad%2B%2B_Logo.svg/512px-Notepad%2B%2B_Logo.svg.png?20210414160502"></kbd>
 </div>
 
 ---
 
 <div>
-<img align="center" alt="Putty" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/putty/putty-original.svg">
-<img align="center" alt="SSH" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ssh/ssh-original-wordmark.svg">
+<kbd><img align="center" alt="Putty" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/putty/putty-original.svg"></kbd>
+<kbd><img align="center" alt="SSH" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ssh/ssh-original-wordmark.svg"></kbd>
 </div>
 
  ---
   
  <div>
-   <img align="center" alt="WordPress" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg">
-   <img align="center" alt="WooCommerce" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/woocommerce/woocommerce-original.svg">
-   <img align="center" alt="Elementor" height="50" width="60" src="https://iconape.com/wp-content/files/gj/11489/svg/elementor.svg">
-   <img align="center" alt="Yoast SEO" height="50" width="60" src="https://iconape.com/wp-content/files/gm/11804/svg/yoast.svg">
-   <img align="center" alt="Joomla" height="50" width="60" src="https://iconape.com/wp-content/files/eh/371238/svg/371238.svg">
-   <img align="center" alt="VirtueMart" height="50" width="60" src="https://dev.virtuemart.net/attachments/download/3/cart_badge.png">
+   <kbd><img align="center" alt="WordPress" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg"></kbd>
+   <kbd><img align="center" alt="WooCommerce" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/woocommerce/woocommerce-original.svg"></kdb>
+   <kbd><img align="center" alt="Elementor" height="50" width="60" src="https://iconape.com/wp-content/files/gj/11489/svg/elementor.svg"></kbd>
+   <kbd<img align="center" alt="Yoast SEO" height="50" width="60" src="https://iconape.com/wp-content/files/gm/11804/svg/yoast.svg"></kbd>
+   <kbd<img align="center" alt="Joomla" height="50" width="60" src="https://iconape.com/wp-content/files/eh/371238/svg/371238.svg"></kbd>
+   <kbd<img align="center" alt="VirtueMart" height="50" width="60" src="https://dev.virtuemart.net/attachments/download/3/cart_badge.png"></kbd>
  </div>
  
  ---
   
  <div>
-   <img align="center" alt="CentOS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/centos/centos-original.svg">
-   <img align="center" alt="Ubuntu" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg">
-   <img align="center" alt="debian" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg">
-   <img align="center" alt="Kali Linux" height="60" width="50" src="https://iconape.com/wp-content/files/aa/353176/svg/353176.svg">
-   <img align="center" alt="Apple" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg">
+   <kbd><img align="center" alt="CentOS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/centos/centos-original.svg">/<kbd>
+   <kbd><img align="center" alt="Ubuntu" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg"></kbd>
+   <kbd><img align="center" alt="debian" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg"></kbd>
+   <kbd><img align="center" alt="Kali Linux" height="60" width="50" src="https://iconape.com/wp-content/files/aa/353176/svg/353176.svg"></kbd>
+   <kbd><img align="center" alt="Apple" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg"></kbd>
  </div>
