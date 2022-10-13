@@ -60,7 +60,13 @@
   <kbd><a href="https://github.com/PhilipMello/philipmello/tree/main/Vesta"><img align="center" alt="Vesta CP" src="https://vestacp.com/img/vesta_logo.png"></a></kbd>
   <kbd><a href="https://github.com/PhilipMello/philipmello/tree/main/Sentora"><img align="center" alt="Sentora" src="http://www.sentora.org/img/sentora_logo.png"></a></kbd> 
 </div>
- 
+
+---
+
+<div>
+  <kbd><a href="https://nextcloud.com"><img align="center" alt="NextCloud" height="60" width="80" src="https://raw.githubusercontent.com/PhilipMello/icons/main/NextCloud-Logo-01.png"></a></kbd>
+</div>
+  
 --- 
   
 <div>
