@@ -1,1 +1,0 @@
-START chrome -new-window --incognito "https://google.com" "https://gmail.com" "https://drive.google.com/" "https://maps.google.com" "https://youtube.com"
