@@ -35,18 +35,11 @@
 # <p align="center">💡 Projects</p>
 
 <div style="display: inline_block"><br>
-<img src="https://raw.githubusercontent.com/PhilipMello/kubernetes/main/assets/images/aks-azure-kubernetes-services.webp" align="right">
+<a href="https://github.com/PhilipMello/kubernetes"><img src="https://raw.githubusercontent.com/PhilipMello/kubernetes/main/assets/images/aks-azure-kubernetes-services.webp" align="right"></a>
 
-# <p align="center">🔧 Azure Kubernetes Tools (AKS)</p>
+# <a href="https://github.com/PhilipMello/kubernetes"><p align="center">🔧 Azure Kubernetes Tools (AKS)</p></a>
 </div>
 
----
-  
- <div>
-  <kbd>
-  <a href="https://github.com/PhilipMello/kubernetes"><img align="center" alt="CentOS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg"></a>    
- </kbd>
- </div>
      
  ---
      
