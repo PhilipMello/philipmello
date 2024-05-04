@@ -34,16 +34,18 @@
 
 # <p align="center">💡 Projects</p>
 
-<div style="display: inline_block"><br>
-<a href="https://github.com/PhilipMello/kubernetes"><img src="https://raw.githubusercontent.com/PhilipMello/kubernetes/main/assets/images/aks-azure-kubernetes-services.webp" align="right"></a>
+<div style="display: inline_block">
+<a href="https://github.com/PhilipMello/kubernetes"><img src="https://raw.githubusercontent.com/PhilipMello/kubernetes/main/assets/images/aks-azure-kubernetes-services.webp" align="right" width="128" height="128"></a>
 
-# <a href="https://github.com/PhilipMello/kubernetes"><p align="center">🔧 Azure Kubernetes Tools (AKS)</p></a>
+# <a href="https://github.com/PhilipMello/kubernetes"><p>🔧 Azure Kubernetes Tools (AKS)</p></a>
 </div>
 
-<div style="display: inline_block"><br>
-<a href="https://github.com/PhilipMello/gi-switch"><img src="https://raw.githubusercontent.com/PhilipMello/git-switch/main/assets/images/github.webp" align="right"></a>
+---
 
-# <a href="https://github.com/PhilipMello/git-switch"><p align="center">🔧 Git Account Switch (2 Accounts in 1 CLI)</p></a>
+<div style="display: inline_block">
+<a href="https://github.com/PhilipMello/gi-switch"><img src="https://raw.githubusercontent.com/PhilipMello/git-switch/main/assets/img/github-logo-blue.png" align="right" width="128" height="128"></a>
+  
+# <a href="https://github.com/PhilipMello/git-switch"><p>🔧 Git Account Switch (2 Accounts in 1 CLI)</p></a>
 </div>
      
  ---
