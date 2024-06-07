@@ -30,9 +30,17 @@
 </div>
 
 ---
-![Snake animation](https://github.com/philipmello/philipmello/blob/output/github-contribution-grid-snake.svg)
+<!--![Snake animation](https://github.com/philipmello/philipmello/blob/output/github-contribution-grid-snake.svg)-->
 
-# <p align="center">💡 Projects</p>
+<details align="center">
+<summary><h1>💡 Projects</h1></summary>
+
+|  |  Course |
+|-----:|-----------|
+| ![image](https://raw.githubusercontent.com/PhilipMello/kubernetes/main/assets/images/aks-azure-kubernetes-services.webp)| [Kubernetes Tools (ktool)](https://github.com/PhilipMello/kubernetes) - 🔧 Azure Kubernetes Tools (AKS)|
+| ![image](https://raw.githubusercontent.com/PhilipMello/git-switch/main/assets/img/github-logo-blue.png)| [Git Account Switch (gswitch)](https://github.com/PhilipMello/git-switch) - 🔧 Git Account Switch (2 Accounts in 1 CLI)|
+
+</details>
 
 <div style="display: inline_block">
 <a href="https://github.com/PhilipMello/kubernetes"><img src="https://raw.githubusercontent.com/PhilipMello/kubernetes/main/assets/images/aks-azure-kubernetes-services.webp" align="right" width="128" height="128"></a>
