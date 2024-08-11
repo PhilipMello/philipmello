@@ -8,17 +8,24 @@
   
 </div>
 
+<div align="center">
+   <a href="https://www.linkedin.com/in/philip-mello" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+   <!--<a href="https://philipmello.github.io/"><img src="https://github.com/PhilipMello/PhilipMello.github.io/blob/master/images/cv-logo.png?raw=true"  alt="PhilipMello CV" width="50" height="50"></a>-->
+  
+   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPhilipMello%2F&count_bg=%231A1B27&title_bg=%23628FDB&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+</div>
+
+
 ### <p align="center">Philip Mello, Developer and AKS Engineer</p>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Blockchain%20developer;Full-Stack%20Developer;PFSense%20Administrator;GLPI%20Administraror;Git%20Expert;Docker%20Administrator;VPS%20Expert;Being%20sincere%20and%20diligent&center=true&width=380&height=65"></a>
 </p>
 
-<div align="center">
-   <a href="https://www.linkedin.com/in/philip-mello" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
-   <!--<a href="https://philipmello.github.io/"><img src="https://github.com/PhilipMello/PhilipMello.github.io/blob/master/images/cv-logo.png?raw=true"  alt="PhilipMello CV" width="50" height="50"></a>-->
-   
-   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPhilipMello%2F&count_bg=%231A1B27&title_bg=%23628FDB&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<h1 align="center">💡 SITES</h1>
+<div float="left">
+  <a href="https://infodica.com/"><img src="media/infodica.gif" width="45%" /></a>
+  <a href="https://clicke.me/"><img src="media/clickeme.gif" width="45%" /></a>
+  <a href="https://phpl.ink/"><img src="media/phplinks.gif" width="45%" /></a>
 </div>
 
 ---
