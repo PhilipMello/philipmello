@@ -59,6 +59,7 @@
 | ![image](https://raw.githubusercontent.com/PhilipMello/kubernetes/main/assets/images/aks-azure-kubernetes-services.webp)| [Kubernetes Tools (ktool)](https://github.com/PhilipMello/kubernetes) - 🔧 Azure Kubernetes Tools (AKS)|
 | ![image](https://raw.githubusercontent.com/PhilipMello/git-switch/main/assets/img/github-logo-blue.png)| [Git Account Switch (gswitch)](https://github.com/PhilipMello/git-switch) - 🔧 Git Account Switch (2 Accounts in 1 CLI)|
 | ![image](https://raw.githubusercontent.com/PhilipMello/cloudflare/main/media/cloudflare-logo-512px.png)| [Cloudflare (dnsflare)](https://github.com/PhilipMello/git-switch) - 🔧 dnsflare (DNS creation for cloudflare)|
+| ![image](media/github-background-img01.webp)| [HOW-TO](https://github.com/PhilipMello/git-switch) - 🔧 HOW-TO (Git,Github,Docker, Kubernetes,REGEX)|
 
 </details>
 
@@ -82,6 +83,14 @@
 <a href="https://github.com/PhilipMello/cloudflare"><img src="https://raw.githubusercontent.com/PhilipMello/cloudflare/main/media/cloudflare-logo-512px.png" align="right" width="128" height="128"></a>
   
 # <a href="https://github.com/PhilipMello/cloudflare"><p>🔧  dnsflare (DNS creation for cloudflare)</p></a>
+</div>
+
+---
+
+<div style="display: inline_block">
+<a href="https://github.com/PhilipMello/how-to"><img src="https://raw.githubusercontent.com/PhilipMello/git-switch/main/assets/img/github-logo-blue.png" align="right" width="128" height="128"></a>
+  
+# <a href="https://github.com/PhilipMello/how-to"><p>🔧  HOW-TO (Git,Github,Docker, Kubernetes,REGEX)</p></a>
 </div>
      
 ### <p align="center">Contributors</p>
