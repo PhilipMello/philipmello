@@ -1,6 +1,6 @@
 <div align="center">
 
-#### _Read this in [other languages](translations/Translations.md)._
+#### _Leia em outro idioma [outros idiomas](translations/Translations.md)._
 <kbd>[<img title="English" alt="English" src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags@master/svg/us.svg" width="44">](README.md)</kbd>
 <kbd>[<img title="Português" alt="Português" src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags@master/svg/pt.svg" width="44">](lang/README-PT.md)</kbd>
 <kbd>[<img title="Español" alt="Español" src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags@master/svg/es.svg" width="44">](lang/README-ES.md)</kbd>
@@ -32,10 +32,10 @@
 
 <h1 align="center">💡 SITES</h1>
 <div float="left">
-  <a href="https://infodica.com/"><img src="media/infodica.gif" width="45%" /></a>
-  <a href="https://clicke.me/"><img src="media/clickeme.gif" width="45%" /></a>
-  <a href="https://phpl.ink/"><img src="media/phplinks.gif" width="45%" /></a>
-  <a href="#"><img src="media/github-background-img01.webp" width="45%" /></a>
+  <a href="https://infodica.com/"><img src="../media/infodica.gif" width="45%" /></a>
+  <a href="https://clicke.me/"><img src="../media/clickeme.gif" width="45%" /></a>
+  <a href="https://phpl.ink/"><img src="../media/phplinks.gif" width="45%" /></a>
+  <a href="#"><img src="../media/github-background-img01.webp" width="45%" /></a>
 </div>
 
 ---
