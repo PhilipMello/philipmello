@@ -1,4 +1,13 @@
 <div align="center">
+
+#### _Read this in [other languages](translations/Translations.md)._
+<kbd>[<img title="English" alt="English" src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags@master/svg/us.svg" width="22">](translations/README.md)</kbd>
+<kbd>[<img title="Português" alt="Português" src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags@master/svg/pt.svg" width="22">](translations/README-PT.md)</kbd>
+<kbd>[<img title="Español" alt="Español" src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags@master/svg/es.svg" width="22">](translations/README-ES.md)</kbd>
+
+</div>
+
+<div align="center">
   
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/philipmello/philipmello?style=for-the-badge&logo=github&logoSize=auto&labelColor=%238000ff&color=%23bf00ff)
 ![GitHub followers](https://img.shields.io/github/followers/philipmello?style=for-the-badge&labelColor=%2300bfff&color=%23bf00ff)
