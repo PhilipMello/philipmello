@@ -34,7 +34,7 @@
 
 <div align="center">
 
-<a href="/ebooks"><img src="media/collection-of-programming-books.webp"/></a>
+<a href="https://github.com/PhilipMello/eBooks"><img src="media/collection-of-programming-books.webp"/></a>
 
 </div>
 
