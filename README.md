@@ -32,6 +32,12 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Blockchain%20developer;Full-Stack%20Developer;PFSense%20Administrator;GLPI%20Administraror;Git%20Expert;Docker%20Administrator;VPS%20Expert;Being%20sincere%20and%20diligent&center=true&width=380&height=65"></a>
 </p>
 
+<div align="center">
+
+<a href="/ebooks"><img src="media/collection-of-programming-books.webp"/></a>
+
+</div>
+
 <h1 align="center">💡 SITES</h1>
 <div float="left">
   <a href="https://infodica.com/"><img src="media/infodica.gif" width="45%" /></a>
