@@ -9,6 +9,16 @@
 
 </div>
 
+<div align="center">
+
+| ![Home](https://img.icons8.com/?size=100&id=bwUgs69v7bOd&format=png&color=000000) | ![How-to](https://img.icons8.com/?size=100&id=TP9RR7DE1AuH&format=png&color=000000) | ![Media](https://img.icons8.com/?size=100&id=gWJapvWh4OE8&format=png&color=000000) | ![Raspberry](https://img.icons8.com/?size=100&id=qLO1sHTgt0rq&format=png&color=000000) | ![Flipper Zero](https://img.icons8.com/?size=100&id=6KkwTPLaxCMM&format=png&color=000000) | ![Pi Hole](https://img.icons8.com/?size=100&id=s8AQ7pC6ux27&format=png&color=000000) | ![gSwitch](https://img.icons8.com/?size=100&id=CoeOGblyIkAK&format=png&color=000000) | ![aaPanel](https://img.icons8.com/?size=100&id=qKmBjy2amKbj&format=png&color=000000) | ![Emoji](https://img.icons8.com/?size=100&id=7tLWAgSNQXZ3&format=png&color=000000) |
+| ------------------------------------------------------------ | ------------------------------------------------------------| ------------------------------------------------------------ | ---------------------------------------------------------------------- | -------------------------------------------------------------------- | ---------------------------------------------------------------- | -------------------------------------------------------------------- | --------------------------------------------------------------- | ------------------------------------------------------------ |
+| [Dev Books](https://github.com/PhilipMello/eBooks)                     | [How-to](https://github.com/PhilipMello/how-to)  | [Media](https://github.com/PhilipMello/media)            | [Raspberry](https://github.com/PhilipMello/raspberrypi)                   | [Flipper Zero](https://github.com/PhilipMello/flipper-zero)                     | [Pi Hole](https://github.com/PhilipMello/pihole)                   | [gSwitch](https://github.com/PhilipMello/git-switch)               | [aaPanel](https://github.com/PhilipMello/aapanel)              | [Emoji](https://github.com/PhilipMello/emoji)              |
+
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
+</div>
+
 ## 💖 Developer Donations
 
 If you would like to support this project, you can donate using the following cryptocurrencies. Your contributions are greatly appreciated! 🙏
@@ -39,23 +49,18 @@ If you would like to support this project, you can donate using the following cr
   
 </div>
 
+<!--
 <div align="center">
    <a href="https://www.linkedin.com/in/philip-mello" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-   <!--<a href="https://philipmello.github.io/"><img src="https://github.com/PhilipMello/PhilipMello.github.io/blob/master/images/cv-logo.png?raw=true"  alt="PhilipMello CV" width="50" height="50"></a>-->
+   <a href="https://philipmello.github.io/"><img src="https://github.com/PhilipMello/PhilipMello.github.io/blob/master/images/cv-logo.png?raw=true"  alt="PhilipMello CV" width="50" height="50"></a>
   
    [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPhilipMello%2F&count_bg=%231A1B27&title_bg=%23628FDB&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
+-->
 
-
-### <p align="center">Philip Mello, Developer and AKS Engineer</p>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Blockchain%20developer;Full-Stack%20Developer;PFSense%20Administrator;GLPI%20Administraror;Git%20Expert;Docker%20Administrator;VPS%20Expert;Being%20sincere%20and%20diligent&center=true&width=380&height=65"></a>
-</p>
-
+<!--
 <div align="center">
-
-<a href="https://github.com/PhilipMello/eBooks"><img src="media/collection-of-programming-books.webp"/></a>
-
+  <a href="https://github.com/PhilipMello/eBooks"><img src="media/collection-of-programming-books.webp"/></a>
 </div>
 
 <h1 align="center">💡 SITES</h1>
@@ -67,7 +72,7 @@ If you would like to support this project, you can donate using the following cr
 </div>
 
 ---
-
+-->
 <div align="center">
   <a href="https://github.com/philipmello">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=philipmello&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
