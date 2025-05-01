@@ -82,6 +82,18 @@ If you would like to support this project, you can donate using the following cr
 ---
 <!--![Snake animation](https://github.com/philipmello/philipmello/blob/output/github-contribution-grid-snake.svg)-->
 
+<div align="center">
+<h1>💡 Projects</h1>
+
+| ![kTool](https://img.icons8.com/?size=100&id=cvzmaEA4kC0o&format=png&color=000000) | ![gSwitch](https://img.icons8.com/?size=100&id=akG4VRhAoSii&format=png&color=000000) | ![aaPanel](https://img.icons8.com/?size=100&id=qKmBjy2amKbj&format=png&color=000000) | ![Zorin](https://img.icons8.com/?size=100&id=NjoLexp22Rzf&format=png&color=000000) |
+| ------------------------------------------------------------ | ------------------------------------------------------------| ------------------------------------------------------------ | ---------------------------------------------------------------------- |
+| [ktool](https://github.com/PhilipMello/ktool)                     | [gSwitch](https://github.com/PhilipMello/git-switch)  | [aaPanel](https://github.com/PhilipMello/aapanel)            | [Zorin](https://github.com/PhilipMello/zorin)                   | 
+
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
+</div>
+
+<!--
 <details align="center">
 <summary><h1>💡 Projects</h1></summary>
 
@@ -131,7 +143,7 @@ If you would like to support this project, you can donate using the following cr
   
 # <a href="https://github.com/AtomyCloud/docker-images"><p>🔨 Docker Container Images</p></a>
 </div>
-
+-->
 ---
 
 ### <p align="center">Contributors</p>
