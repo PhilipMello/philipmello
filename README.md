@@ -85,9 +85,9 @@ If you would like to support this project, you can donate using the following cr
 <div align="center">
 <h1>💡 Projects</h1>
 
-| ![kTool](https://img.icons8.com/?size=100&id=cvzmaEA4kC0o&format=png&color=000000) | ![gSwitch](https://img.icons8.com/?size=100&id=akG4VRhAoSii&format=png&color=000000) | ![aaPanel](https://img.icons8.com/?size=100&id=qKmBjy2amKbj&format=png&color=000000) | ![Zorin](https://img.icons8.com/?size=100&id=NjoLexp22Rzf&format=png&color=000000) |
-| ------------------------------------------------------------ | ------------------------------------------------------------| ------------------------------------------------------------ | ---------------------------------------------------------------------- |
-| [ktool](https://github.com/PhilipMello/ktool)                     | [gSwitch](https://github.com/PhilipMello/git-switch)  | [aaPanel](https://github.com/PhilipMello/aapanel)            | [Zorin](https://github.com/PhilipMello/zorin)                   | 
+| ![kTool](https://img.icons8.com/?size=100&id=cvzmaEA4kC0o&format=png&color=000000) | ![gSwitch](https://img.icons8.com/?size=100&id=akG4VRhAoSii&format=png&color=000000) | ![aaPanel](https://img.icons8.com/?size=100&id=qKmBjy2amKbj&format=png&color=000000) | ![Zorin](https://img.icons8.com/?size=100&id=NjoLexp22Rzf&format=png&color=000000) | ![Kubernetes From Scratch](https://img.icons8.com/?size=100&id=cvzmaEA4kC0o&format=png&color=000000) |
+| ------------------------------------------------------------ | ------------------------------------------------------------| ------------------------------------------------------------ | ---------------------------------------------------------------------- | ---------------------------------------------------------------------- |
+| [ktool](https://github.com/PhilipMello/kubernetes)                     | [gSwitch](https://github.com/PhilipMello/git-switch)  | [aaPanel](https://github.com/PhilipMello/aapanel)            | [Zorin](https://github.com/PhilipMello/zorin)                   | [Kubernetes From Scratch](https://github.com/PhilipMello/kubernetes-from-scratch)  |
 
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
