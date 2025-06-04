@@ -1,3 +1,5 @@
+# ⚠️ Following a complaint from Flipper Inc, Microsoft has unilaterally decided to close my `flipper-zero` repository. ⚠️
+
 <div align="center">
 
 #### _Read this in [other languages](translations/Translations.md)._
