@@ -1,4 +1,4 @@
-# ⚠️ Following a complaint from Flipper Inc, Microsoft has unilaterally decided to close my `flipper-zero` repository. ⚠️
+# [💡 SOON, A COLLECTIONS OF SCRIPT TOOLS FOR ENGINEERS (DEVOPS, KUBERNETES, VMS... AND MUCH MORE)💡](/HubScripts)
 
 <div align="center">
 
