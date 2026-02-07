@@ -1,4 +1,5 @@
 # 📚 My Amazon Books
+[![Amazon](https://img.shields.io/badge/Amazon-Author_Page-FF9900?style=for-the-badge&logo=amazon)](https://www.amazon.de/stores/author/B0FRJNWX4M/allbooks)
 
 | Linux for Rookies: 1st Edition | Linux para novatos: Edition 1 | Docker For Rookies: Edition 1 | Docker für Einsteiger: Ausgabe 1 |
 | :---: | :---: | :---: | :---: |
