@@ -1,4 +1,9 @@
-# [💡 SOON, A COLLECTIONS OF SCRIPT TOOLS FOR ENGINEERS (DEVOPS, KUBERNETES, VMS... AND MUCH MORE)💡](/HubScripts)
+# 📚 My Amazon Books
+
+| Linux for Rookies: 1st Edition | Linux para novatos: Edition 1 | Docker For Rookies: Edition 1 | Docker für Einsteiger: Ausgabe 1 |
+| :---: | :---: | :---: | :---: |
+| [![Linux for Rookies: 1st Edition](https://m.media-amazon.com/images/I/81N0wbYGVDL._SY522_.jpg)](https://www.amazon.com/dp/B0FPBM2RZ7) | [![Linux para novatos: Edition 1](https://m.media-amazon.com/images/I/819uCiXYeDL._SY522_.jpg)](https://www.amazon.com.br/dp/B0FPJVXF5Y) | [![Docker For Rookies: Edition 1](https://m.media-amazon.com/images/I/81wkEf1xcWL._SY522_.jpg)](https://www.amazon.com.br/dp/B0GJLR2N8L) | [![Docker für Einsteiger: Ausgabe 1](https://m.media-amazon.com/images/I/81OomPkpyWL._SY522_.jpg)](https://www.amazon.de/dp/B0GJNQPNY1) 
+| [Buy on Amazon](https://www.amazon.com/dp/B0FPBM2RZ7) | [Buy on Amazon](https://www.amazon.com.br/dp/B0FPJVXF5Y) | [Buy on Amazon](https://www.amazon.com.br/dp/B0GJLR2N8L) | [Buy on Amazon](https://www.amazon.de/dp/B0GJNQPNY1) |
 
 <div align="center">
 
