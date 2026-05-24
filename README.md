@@ -1,5 +1,8 @@
 # 📚 My Amazon Books
 [![Amazon](https://img.shields.io/badge/Amazon-Author_Page-FF9900?style=for-the-badge&logo=amazon)](https://www.amazon.de/stores/author/B0FRJNWX4M/allbooks)
+[![Amazon](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/philip-mello)
+[![Amazon](https://img.shields.io/badge/-GitHub-%23121011?style=for-the-badge&logo=github&logoColor=blue)](https://github.com/PhilipMello)
+
 
 | Linux for Rookies: 1st Edition | Linux para novatos: Edition 1 | Docker For Rookies: Edition 1 | Docker für Einsteiger: Ausgabe 1 |
 | :---: | :---: | :---: | :---: |
@@ -21,7 +24,7 @@
 
 | ![Home](https://img.icons8.com/?size=100&id=bwUgs69v7bOd&format=png&color=000000) | ![How-to](https://img.icons8.com/?size=100&id=TP9RR7DE1AuH&format=png&color=000000) | ![Media](https://img.icons8.com/?size=100&id=gWJapvWh4OE8&format=png&color=000000) | ![Raspberry](https://img.icons8.com/?size=100&id=qLO1sHTgt0rq&format=png&color=000000) | ![Flipper Zero](https://raw.githubusercontent.com/PhilipMello/icons/main/flipper/flipper-zero-multi-tool-device-for-geeks-17-100x45px.webp) | ![Pi Hole](https://img.icons8.com/?size=100&id=s8AQ7pC6ux27&format=png&color=000000) | ![gSwitch](https://img.icons8.com/?size=100&id=CoeOGblyIkAK&format=png&color=000000) | ![aaPanel](https://img.icons8.com/?size=100&id=qKmBjy2amKbj&format=png&color=000000) | ![Emoji](https://img.icons8.com/?size=100&id=7tLWAgSNQXZ3&format=png&color=000000) |
 | ------------------------------------------------------------ | ------------------------------------------------------------| ------------------------------------------------------------ | ---------------------------------------------------------------------- | -------------------------------------------------------------------- | ---------------------------------------------------------------- | -------------------------------------------------------------------- | --------------------------------------------------------------- | ------------------------------------------------------------ |
-| [Dev Books](https://github.com/PhilipMello/eBooks)                     | [How-to](https://github.com/PhilipMello/how-to)  | [Media](https://github.com/PhilipMello/media)            | [Raspberry](https://github.com/PhilipMello/raspberrypi)                   | [Flipper Zero](https://github.com/PhilipMello/flipper-zero)                     | [Pi Hole](https://github.com/PhilipMello/pihole)                   | [gSwitch](https://github.com/PhilipMello/git-switch)               | [aaPanel](https://github.com/PhilipMello/aapanel)              | [Emoji](https://github.com/PhilipMello/emoji)              |
+| [Dev Books](https://github.com/PhilipMello/eBooks)                     | [How-to](https://github.com/PhilipMello/how-to)  | [Media](https://github.com/PhilipMello/media)            | [Raspberry](https://github.com/PhilipMello/raspberrypi)                   | [Flipper Zero](https://github.com/PhilipMello/flipper0)                     | [Pi Hole](https://github.com/PhilipMello/pihole)                   | [gSwitch](https://github.com/PhilipMello/git-switch)               | [aaPanel](https://github.com/PhilipMello/aapanel)              | [Emoji](https://github.com/PhilipMello/emoji)              |
 
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
@@ -38,38 +41,18 @@
   
 </div>
 
-<!--
-<div align="center">
-   <a href="https://www.linkedin.com/in/philip-mello" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-   <a href="https://philipmello.github.io/"><img src="https://github.com/PhilipMello/PhilipMello.github.io/blob/master/images/cv-logo.png?raw=true"  alt="PhilipMello CV" width="50" height="50"></a>
-  
-   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPhilipMello%2F&count_bg=%231A1B27&title_bg=%23628FDB&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-</div>
--->
-
-<!--
-<div align="center">
-  <a href="https://github.com/PhilipMello/eBooks"><img src="media/collection-of-programming-books.webp"/></a>
-</div>
-
 <h1 align="center">💡 SITES</h1>
-<div float="left">
-  <a href="https://infodica.com/">InfoDica - MarketPlace<img src="media/infodica.gif" width="45%" /></a>
-  <a href="https://clicke.me/">URL Shortener<img src="media/clickeme.gif" width="45%" /></a>
-  <a href="https://phpl.ink/">URL Shortener<img src="media/phplinks.gif" width="45%" /></a>
-  <a href=""><img src="media/github-background-img01.webp" width="45%" /></a>
-</div>
-
----
--->
 <div align="center">
-  <a href="https://github.com/philipmello">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=philipmello&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=philipmello&layout=compact&langs_count=7&theme=tokyonight"/></a>
+  <a href="https://github.com/PhilipMello/eBooks"><img src="media/clickeme.gif"/></a>
 </div>
 
 ---
-<!--![Snake animation](https://github.com/philipmello/philipmello/blob/output/github-contribution-grid-snake.svg)-->
+
+<div align="center">
+  <a href="https://github.com/PhilipMello/eBooks"><img src="media/infodica.gif"/></a>
+</div>
+
+---
 
 <div align="center">
 <h1>💡 Projects</h1>
